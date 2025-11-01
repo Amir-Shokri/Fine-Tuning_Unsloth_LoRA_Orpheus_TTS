@@ -7,9 +7,12 @@
 # Fine-Tuning Orpheus TTS with Unsloth and LoRA 
 
 ---
-<video controls width="300" height="50">
-  <source src="./output/Ground Truth.mp3" type="audio/mpeg">
-</video>
 
-<audio controls>
-  <source src="./output/Ground Truth.mp3" type="audio/mpeg"> </audio>
+
+
+
+
+[./output/Ground Truth.mp3](https://github.com/Amir-Shokri/Fine-Tuning_Unsloth_LoRA_Orpheus_TTS/blob/main/output/Ground%20Truth.mp3)
+[Ground Truth.mp3](https://github.com/user-attachments/files/23281091/Ground.Truth.mp3)
+
+
