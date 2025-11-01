@@ -18,9 +18,10 @@ read-audio/?p=<https://github.com/Amir-Shokri/Fine-Tuning_Unsloth_LoRA_Orpheus_T
 [./output/Ground Truth.mp3](https://github.com/Amir-Shokri/Fine-Tuning_Unsloth_LoRA_Orpheus_TTS/blob/main/output/Ground%20Truth.mp3)
 
 ---
-[Ground Truth.mp3](https://github.com/user-attachments/files/23281091/Ground.Truth.mp3)
-
+[Ground Truth](./output/Ground Truth.mp4)
+[Ground Truth](./output/voice_synthesize1.mp4)
+[Ground Truth](./output/voice_synthesize2.mp4)
 
 ---
 
-![Audio](https://github.com/Amir-Shokri/Fine-Tuning_Unsloth_LoRA_Orpheus_TTS/blob/main/output/Ground%20Truth.mp3)
+![Music](./output/voice_synthesize1.mp4)
