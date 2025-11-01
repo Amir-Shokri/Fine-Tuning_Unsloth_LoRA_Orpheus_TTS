@@ -8,11 +8,15 @@
 
 ---
 
+<video controls="" autoplay="" name="media">
+    <source src="./output/voice_synthesize2.wav" type="audio/mp3">
+</video>
 
-
-
+---
 
 [./output/Ground Truth.mp3](https://github.com/Amir-Shokri/Fine-Tuning_Unsloth_LoRA_Orpheus_TTS/blob/main/output/Ground%20Truth.mp3)
+
+---
 [Ground Truth.mp3](https://github.com/user-attachments/files/23281091/Ground.Truth.mp3)
 
 
