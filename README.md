@@ -7,8 +7,10 @@
 # Fine-Tuning Orpheus TTS with Unsloth and LoRA 
 
 ---
+<video controls width="300" height="50">
+  <source src="./output/Ground Truth.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 <audio controls>
-  <source src="./output/Ground Truth.mp3" type="audio/mpeg">
-  ...
-</audio>
+  <source src="./output/Ground Truth.mp3" type="audio/mpeg"> </audio>
